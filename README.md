@@ -1,28 +1,24 @@
 # 👋 Hey, soy hhndz
 
-🚀 **Web Developer** enfocado en crear proyectos reales mientras aprendo  
+🚀 **Web Developer** creando proyectos reales mientras aprendo  
 📱 **Mobile-first mindset**  
-🧠 Aprender haciendo > tutoriales infinitos  
-⚡ Me gusta convertir ideas en productos funcionales
+🧠 Learning by building  
+⚡ Ideas → código → producto
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-- HTML
-- CSS
-- JavaScript
+### Frontend
+![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=black)
 
-**Backend**
-- Node.js
-- REST APIs
-
-**Otros**
-- Git & GitHub
-- Xano
-- Bolt
-- Notion
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
+![Notion](https://img.shields.io/badge/Notion-black?style=flat&logo=notion)
 
 ---
 
@@ -31,36 +27,36 @@
 ### 🔹 BarberPro
 📱 Sistema de reservas para barberías (mobile-first)
 
-**Features:**
+**Incluye:**
 - Autenticación de usuarios
 - Reserva de citas por franjas horarias
 - Panel de administración
-- Gestión de clientes
+- Gestión de clientes y horarios
 
 ---
 
 ### 🔹 VeoBuilder *(en desarrollo)*
-🎬 Generador de historias y prompts para IA de video
+🎬 Plataforma para generar historias y prompts para IA de video
 
 **Objetivo:**
-- Crear prompts automáticos para herramientas de IA
-- Facilitar la creación de contenido
-- Pensado como producto SaaS
+- Automatizar la creación de prompts
+- Facilitar contenido para redes sociales
+- Enfoque SaaS y monetización futura
 
 ---
 
-## 📈 Actualmente
+## 📈 GitHub Stats
 
-- Construyendo aplicaciones full-stack
-- Mejorando arquitectura y buenas prácticas
-- Explorando automatización e IA aplicada
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hhndz&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhndz&layout=compact&theme=tokyonight)
 
 ---
 
-## 🎯 Objetivo
+## 🎯 En qué estoy enfocado ahora
 
-Crear productos reales, útiles y escalables  
-Aprender, iterar y mejorar con cada proyecto
+- Construcción de apps full-stack
+- Mejores prácticas y arquitectura
+- Automatización e IA aplicada a productos reales
 
 ---
 
@@ -70,5 +66,5 @@ Aprender, iterar y mejorar con cada proyecto
 
 ---
 
-⭐ Si has llegado hasta aquí, gracias por pasarte  
-Siempre abierto a aprender y colaborar
+⭐ Siempre aprendiendo, siempre construyendo  
+Si algo se puede automatizar, mejor
