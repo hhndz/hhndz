@@ -45,13 +45,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hhndz&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhndz&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 En qué estoy enfocado ahora
 
 - Construcción de apps full-stack
