@@ -1,6 +1,8 @@
 
 
-https://github.com/user-attachments/assets/24d813ae-e8b1-42c8-9a0d-93c3310c0754
+<img width="800" height="450" alt="watermark_removed_cb50595e-9f4a-4b97-be2a-eee09f35fd00-ezgif com-optimize" src="https://github.com/user-attachments/assets/7dbb6472-68d5-4ca0-b4ff-4bcf57d4f36b" />
+
+
 
 # 👋 Hey, soy hhndz
 
