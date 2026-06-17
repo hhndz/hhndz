@@ -17,7 +17,7 @@ Ideas → code → product
 
 🚀 **[PDF2TEST](https://pdf2test.net)** — A tool to create interactive tests by uploading a PDF
 
-🛰️ **[TheBackrooms](https://thebackrooms.game)** — A game built with Three.js, based on the Backrooms
+🛰️ **[TheBackrooms](https://thebackrooms.games)** — A game built with Three.js, based on the Backrooms
 
 ---
 
