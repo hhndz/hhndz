@@ -15,8 +15,8 @@ Ideas → code → product
 
 ---
 
-🚀 **BarberPro** — booking system for barbershops  
-🛰️ **VeoBuilder** *(in progress)* — AI video stories & prompts
+🚀 **[PDF2TEST](https://pdf2test.net)** — A tool to create interactive tests by uploading a PDF
+🛰️ **[TheBackrooms](https://thebackrooms.game)** — A game built with Three.js, based on the Backrooms
 
 ---
 
